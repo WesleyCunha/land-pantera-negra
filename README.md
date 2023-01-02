@@ -1,19 +1,16 @@
-# Projeto Formulário de login
+# Projeto Landing Page Pantera Negra
 
 Visualiza projeto ao vivo [clique aqui](https://wesleycunha.github.io/loginsystem/)
 
 ![Project Review](https://github.com/WesleyCunha/land-pantera-negra/blob/main/Tela.png?raw=true)
 
-Projeto apenas para estudos, com objetivo de mostra tecnologias como html e css.
+Projeto apenas para estudos, com objetivo de mostra tecnologias da web.
 
 ## Tecnologias Utilizadas
 - HTML
 - CSS
+- SASS
+- GSAP
+- TILT
 
-Projeto simples apenas utilizando as tecnologias acima como referência.
-Exemplos de alguns comando utilizados:
-###### HTML
--input, label, checkbox, submit, p, span, div, form, h3
- 
- ###### CSS
--width, height, max-width, text-align, text-decorate,  padding, margin, display, :root, rem, svg entre outros.
+Projeto simples apenas para fins estudantis
