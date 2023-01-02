@@ -29,7 +29,10 @@ body {
   height: 100vh;
   background-color: #000;
   color: #fff;
-  overflow-x: hidden;
+  overflow: hidden;
+@include responsive(960px){
+  overflow: auto;
+}
 }
 img {
   max-width: 100%;
